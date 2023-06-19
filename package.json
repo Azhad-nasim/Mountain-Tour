@@ -2,7 +2,6 @@
   "name": "ct-skills_test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://azhad-nasim.github.io/Mountain-Tour-Website/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -48,5 +47,6 @@
     "gh-pages": "^5.0.0"
   },
   "author": "Azhad Nasim",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/Azhad-nasim/Mountain-Tour-Guide.git"
 }
