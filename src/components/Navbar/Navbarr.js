@@ -29,7 +29,7 @@ const Nav1 = () => {
             return (
               <li key={index}>
                 <NavLink
-                  href={item.url}
+                  // href={item.url}
                   className={item.cName}
                   target={item.target}
                   to={item.to}
