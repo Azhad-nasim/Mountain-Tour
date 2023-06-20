@@ -1,4 +1,5 @@
 {
+  "homepage": "https://Azhad-nasim.github.io/Mountain-Tour",
   "name": "ct-skills_test",
   "version": "0.1.0",
   "private": true,
@@ -16,6 +17,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -42,5 +45,8 @@
   "description": "Its a Reactjs Project",
   "main": "app.js",
   "author": "Azhad Nasim",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
