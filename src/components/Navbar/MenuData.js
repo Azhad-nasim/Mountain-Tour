@@ -1,18 +1,18 @@
 const MenuData = [
   {
     title: "01.History",
-    url: "#history",
+    url: "#",
     cName: "nav-links",
-    target: "_blank",
-    to: "/history",
+    // target: "_blank",
+    // to: "/history",
   },
 
   {
     title: "02.Team",
-    url: "#team",
+    url: "#",
     cName: "nav-links",
-    target: "_blank",
-    to: "/team",
+    // target: "_blank",
+    // to: "/team",
   },
 ];
 
