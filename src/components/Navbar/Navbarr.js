@@ -14,10 +14,10 @@ const Nav1 = () => {
     setClick((current) => !current);
   };
   function openNewTab() {
-    window.open("Mountain-Tour/history", "_blank");
+    window.open("/Mountain-Tour/history", "_blank");
   }
   function openNewTab2() {
-    window.open("Mountain-Tour/team", "_blank");
+    window.open("/Mountain-Tour/team", "_blank");
   }
 
   return (
