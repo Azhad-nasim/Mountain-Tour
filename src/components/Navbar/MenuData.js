@@ -4,7 +4,7 @@ const MenuData = [
     url: "#history",
     cName: "nav-links",
     target: "_blank",
-    to: "/Mountain-Tour/history",
+    to: "/history",
   },
 
   {
@@ -12,7 +12,7 @@ const MenuData = [
     url: "#team",
     cName: "nav-links",
     target: "_blank",
-    to: "/Mountain-Tour/team",
+    to: "/team",
   },
 ];
 
