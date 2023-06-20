@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Mountain-Tour/static/css/main.c6eadca6.css",
+    "main.js": "/Mountain-Tour/static/js/main.d0006d40.js",
+    "static/js/787.3abd4631.chunk.js": "/Mountain-Tour/static/js/787.3abd4631.chunk.js",
+    "static/media/main.jpg": "/Mountain-Tour/static/media/main.4b7b0fc216784e404300.jpg",
+    "static/media/main1.jpg": "/Mountain-Tour/static/media/main1.803cd2961ec291e855dc.jpg",
+    "static/media/slider3.jpg": "/Mountain-Tour/static/media/slider3.3f42e5f0dfc142b50955.jpg",
+    "static/media/slider5.jpg": "/Mountain-Tour/static/media/slider5.f5312d3dd7497c4cba75.jpg",
+    "static/media/slider7.jpg": "/Mountain-Tour/static/media/slider7.3526415c013f05e24f80.jpg",
+    "static/media/slider6.jpg": "/Mountain-Tour/static/media/slider6.d489de1467c28af70821.jpg",
+    "static/media/slider1.jpg": "/Mountain-Tour/static/media/slider1.25735ab625d750b1f528.jpg",
+    "static/media/slider2.jpg": "/Mountain-Tour/static/media/slider2.486ea0404eb2a1ba7e0a.jpg",
+    "static/media/main2.1.jpg": "/Mountain-Tour/static/media/main2.1.4700757e465aa9f61fde.jpg",
+    "static/media/slider4.jpg": "/Mountain-Tour/static/media/slider4.f8dfaa4b36e5aa1b7f3f.jpg",
+    "static/media/Logo_with_Name.png": "/Mountain-Tour/static/media/Logo_with_Name.43f4fa9a49f573e4ec27.png",
+    "index.html": "/Mountain-Tour/index.html",
+    "main.c6eadca6.css.map": "/Mountain-Tour/static/css/main.c6eadca6.css.map",
+    "main.d0006d40.js.map": "/Mountain-Tour/static/js/main.d0006d40.js.map",
+    "787.3abd4631.chunk.js.map": "/Mountain-Tour/static/js/787.3abd4631.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6eadca6.css",
+    "static/js/main.d0006d40.js"
+  ]
+}
