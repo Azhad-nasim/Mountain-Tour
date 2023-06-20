@@ -42,7 +42,7 @@ const Nav1 = () => {
                   // href={item.url}
                   className={item.cName1}
                   // target={item.target}
-                  // to={item.to}
+                  to={item.to1}
                   onClick={openNewTab}
                 >
                   {item.title1}
@@ -51,7 +51,7 @@ const Nav1 = () => {
                   // href={item.url}
                   className={item.cName2}
                   // target={item.target}
-                  // to={item.to}
+                  to={item.to2}
                   onClick={openNewTab2}
                 >
                   {item.title2}
