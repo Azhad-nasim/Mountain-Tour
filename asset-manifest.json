@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mountain-Tour/static/css/main.c6eadca6.css",
-    "main.js": "/Mountain-Tour/static/js/main.12bc756f.js",
+    "main.js": "/Mountain-Tour/static/js/main.a215bd1d.js",
     "static/js/787.3abd4631.chunk.js": "/Mountain-Tour/static/js/787.3abd4631.chunk.js",
     "static/media/main.jpg": "/Mountain-Tour/static/media/main.4b7b0fc216784e404300.jpg",
     "static/media/main1.jpg": "/Mountain-Tour/static/media/main1.803cd2961ec291e855dc.jpg",
@@ -16,11 +16,11 @@
     "static/media/Logo_with_Name.png": "/Mountain-Tour/static/media/Logo_with_Name.43f4fa9a49f573e4ec27.png",
     "index.html": "/Mountain-Tour/index.html",
     "main.c6eadca6.css.map": "/Mountain-Tour/static/css/main.c6eadca6.css.map",
-    "main.12bc756f.js.map": "/Mountain-Tour/static/js/main.12bc756f.js.map",
+    "main.a215bd1d.js.map": "/Mountain-Tour/static/js/main.a215bd1d.js.map",
     "787.3abd4631.chunk.js.map": "/Mountain-Tour/static/js/787.3abd4631.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6eadca6.css",
-    "static/js/main.12bc756f.js"
+    "static/js/main.a215bd1d.js"
   ]
 }
