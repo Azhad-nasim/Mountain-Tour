@@ -14,13 +14,10 @@ const Nav1 = () => {
     setClick((current) => !current);
   };
   function openNewTab() {
-    window.open(
-      "https://azhad-nasim.github.io/Mountain-Tour/history",
-      "_blank"
-    );
+    window.open("https://azhad-nasim.github.io/Mountain-Tour", "_blank");
   }
   function openNewTab2() {
-    window.open("https://azhad-nasim.github.io/Mountain-Tour/team", "_blank");
+    window.open("https://azhad-nasim.github.io/Mountain-Tour", "_blank");
   }
 
   return (
@@ -42,7 +39,7 @@ const Nav1 = () => {
                   // href={item.url}
                   className={item.cName1}
                   // target={item.target}
-                  to={item.to1}
+                  // to={item.to}
                   onClick={openNewTab}
                 >
                   {item.title1}
@@ -51,7 +48,7 @@ const Nav1 = () => {
                   // href={item.url}
                   className={item.cName2}
                   // target={item.target}
-                  to={item.to2}
+                  // to={item.to}
                   onClick={openNewTab2}
                 >
                   {item.title2}
