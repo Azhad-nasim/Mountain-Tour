@@ -10,7 +10,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 function App() {
   return (
     <>
-      <BrowserRouter basename="/">
+      <BrowserRouter basename="/Mountain-Tour">
         <Routes>
           <Route exact path="/" element={<Nav1 />} />
           <Route path="/history" element={<History />}></Route>
