@@ -14,13 +14,10 @@ const Nav1 = () => {
     setClick((current) => !current);
   };
   function openNewTab() {
-    window.open(
-      "https://azhad-nasim.github.io/Mountain-Tour/history",
-      "_blank"
-    );
+    window.open("https://azhad-nasim.github.io/Mountain-Tour", "_blank");
   }
   function openNewTab2() {
-    window.open("https://azhad-nasim.github.io/Mountain-Tour/team", "_blank");
+    window.open("https://azhad-nasim.github.io/Mountain-Tour", "_blank");
   }
 
   return (
