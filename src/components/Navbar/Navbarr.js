@@ -31,7 +31,7 @@ const Nav1 = () => {
                 <NavLink
                   // href={item.url}
                   className={item.cName}
-                  target={item.target}
+                  // target={item.target}
                   to={item.to}
                 >
                   {item.title}
