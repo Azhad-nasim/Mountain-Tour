@@ -13,7 +13,7 @@ function App() {
       <BrowserRouter basename="/Mountain-Tour">
         {/* <BrowserRouter> */}
         <Routes>
-          <Route exact path="/" element={<Nav1 />}></Route>
+          <Route index path="/" element={<Nav1 />}></Route>
           <Route path="/history" element={<History />}></Route>
           <Route path="/team" element={<Team />}></Route>
         </Routes>
