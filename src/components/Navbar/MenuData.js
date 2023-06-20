@@ -1,7 +1,7 @@
 const MenuData = [
   {
     title: "01.History",
-    url: "#",
+    url: "#history",
     cName: "nav-links",
     target: "_blank",
     to: "/history",
@@ -9,7 +9,7 @@ const MenuData = [
 
   {
     title: "02.Team",
-    url: "#",
+    url: "#team",
     cName: "nav-links",
     target: "_blank",
     to: "/team",
