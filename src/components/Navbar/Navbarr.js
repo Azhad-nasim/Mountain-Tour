@@ -13,6 +13,13 @@ const Nav1 = () => {
   const handleClick = () => {
     setClick((current) => !current);
   };
+  function openNewTab() {
+    window.open("/history", "_blank");
+  }
+  function openNewTab2() {
+    window.open("/team", "_blank");
+  }
+
   return (
     <>
       <nav className="NavbarItems">
@@ -30,11 +37,21 @@ const Nav1 = () => {
               <li key={index}>
                 <NavLink
                   // href={item.url}
-                  className={item.cName}
+                  className={item.cName1}
                   // target={item.target}
-                  to={item.to}
+                  // to={item.to}
+                  onClick={openNewTab}
                 >
-                  {item.title}
+                  {item.title1}
+                </NavLink>
+                <NavLink
+                  // href={item.url}
+                  className={item.cName2}
+                  // target={item.target}
+                  // to={item.to}
+                  onClick={openNewTab2}
+                >
+                  {item.title2}
                 </NavLink>
               </li>
             );
