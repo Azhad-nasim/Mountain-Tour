@@ -44,7 +44,7 @@ const Nav1 = () => {
                 >
                   {item.title1}
                 </Link>
-                <NavLink
+                <Link
                   // href={item.url}
                   className={item.cName2}
                   // target={item.target}
@@ -52,7 +52,7 @@ const Nav1 = () => {
                   onClick={openNewTab2}
                 >
                   {item.title2}
-                </NavLink>
+                </Link>
               </li>
             );
           })}
