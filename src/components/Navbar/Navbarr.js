@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import MenuData from "./MenuData";
-import { NavLink } from "react-router-dom";
+import { NavLink, Link } from "react-router-dom";
 import LogoS from "../../assets/img/Logo.png";
 import "./Nav.css";
 import Home from "../Home/Home";
@@ -35,7 +35,7 @@ const Nav1 = () => {
           {MenuData.map((item, index) => {
             return (
               <li key={index}>
-                <NavLink
+                <Link
                   // href={item.url}
                   className={item.cName1}
                   // target={item.target}
@@ -43,7 +43,7 @@ const Nav1 = () => {
                   onClick={openNewTab}
                 >
                   {item.title1}
-                </NavLink>
+                </Link>
                 <NavLink
                   // href={item.url}
                   className={item.cName2}
